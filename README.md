@@ -2,6 +2,6 @@
 
 Practice for using fast-api
 
-##
+## installs
 
-Here you'll find what I've been practicing on
+poetry - package manager
